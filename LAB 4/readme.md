@@ -1,6 +1,4 @@
-# C Programming Lab
-
-This folder contains some basic C programming examples that I worked on as part of my college lab assignment.
+# LAB 4
 
 The programs included in this lab are related to **increment, decrement, error detection, signed integers, and unsigned integers**.
 
@@ -8,11 +6,11 @@ The programs included in this lab are related to **increment, decrement, error d
 
 ## Programs Included
 
-- Increment Operator
-- Decrement Operator
-- Error Detection
-- Signed Integer
-- Unsigned Integer
+* Increment Operator
+* Decrement Operator
+* Error Detection
+* Signed Integer
+* Unsigned Integer
 
 ---
 
@@ -203,61 +201,13 @@ In this program, the variable `a` is declared as an unsigned integer and stores 
 
 All the programs in this lab perform a fixed number of operations and use a constant amount of memory.
 
-| Program | Time Complexity | Space Complexity |
-|---|---|---|
-| Increment | O(1) | O(1) |
-| Decrement | O(1) | O(1) |
-| Error Detection Example | O(1) | O(1) |
-| Signed Integer | O(1) | O(1) |
-| Unsigned Integer | O(1) | O(1) |
-
----
-
-## Screenshots
-
-Screenshots of the program outputs can be added here.
-
-### Increment
-
-![Increment Output](screenshots/increment.png)
-
-### Decrement
-
-![Decrement Output](screenshots/decrement.png)
-
-### Error Detection
-
-![Error Detection](screenshots/error-detection.png)
-
-### Signed Integer
-
-![Signed Integer](screenshots/signed.png)
-
-### Unsigned Integer
-
-![Unsigned Integer](screenshots/unsigned.png)
-
-### Suggested Folder Structure
-
-```text
-Lab/
-│
-├── increment.c
-├── decrement.c
-├── error_detection.c
-├── signed.c
-├── unsigned.c
-├── README.md
-│
-└── screenshots/
-    ├── increment.png
-    ├── decrement.png
-    ├── error-detection.png
-    ├── signed.png
-    └── unsigned.png
-```
-
-> Replace the screenshot file names above with the actual names of your screenshots if they are different.
+| Program                 | Time Complexity | Space Complexity |
+| ----------------------- | --------------- | ---------------- |
+| Increment               | O(1)            | O(1)             |
+| Decrement               | O(1)            | O(1)             |
+| Error Detection Example | O(1)            | O(1)             |
+| Signed Integer          | O(1)            | O(1)             |
+| Unsigned Integer        | O(1)            | O(1)             |
 
 ---
 
@@ -265,10 +215,10 @@ Lab/
 
 Through these programs, I practiced:
 
-- Using increment and decrement operators.
-- Understanding basic syntax errors in C.
-- Identifying and correcting a missing semicolon.
-- Using signed integers.
-- Using unsigned integers.
-- Compiling and running basic C programs.
-- Understanding basic time and space complexity.
+* Using increment and decrement operators.
+* Understanding basic syntax errors in C.
+* Identifying and correcting a missing semicolon.
+* Using signed integers.
+* Using unsigned integers.
+* Compiling and running basic C programs.
+* Understanding basic time and space complexity.
