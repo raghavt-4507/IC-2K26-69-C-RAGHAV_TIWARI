@@ -37,28 +37,7 @@ Some of the concepts covered in this repository include:
 * Basic error detection and debugging
 * Time and space complexity
 
-More topics will be added as I progress through the course.
-
----
-
-## 📂 Repository Contents
-
-This repository contains different folders for the programs and assignments covered during my C programming lab.
-
-```text
-C-Programming/
-│
-├── Hello-World/
-├── Arithmetic-Operations/
-├── Relational-Bitwise-Operators/
-├── Increment-Decrement/
-├── Signed-Unsigned/
-├── Error-Detection/
-│
-└── README.md
-```
-
-The structure may change as new assignments and topics are added.
+More topics will be added as I progress through the course
 
 ---
 
